@@ -3,19 +3,19 @@
   "items": [
     {
       "title": "Upgrade to v25.1.2",
-      "permalink": "/upgrade-guide/v25.1.2",
+      "permalink": "/phofaux/upgrade-guide/v25.1.2",
       "unlisted": false,
       "date": "2026-05-19T00:00:00.000Z"
     },
     {
       "title": "Upgrade to AI Factory v26.1.0",
-      "permalink": "/upgrade-guide/v26.1.0",
+      "permalink": "/phofaux/upgrade-guide/v26.1.0",
       "unlisted": false,
       "date": "2026-05-15T00:00:00.000Z"
     },
     {
       "title": "Upgrade to v25.1.1",
-      "permalink": "/upgrade-guide/v25.1.1",
+      "permalink": "/phofaux/upgrade-guide/v25.1.1",
       "unlisted": false,
       "date": "2026-05-15T00:00:00.000Z"
     }

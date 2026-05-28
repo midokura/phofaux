@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/v26.1.0",
+  "permalink": "/phofaux/blog/v26.1.0",
   "source": "@site/blog/26.1.0-releasenotes.md",
   "title": "AI Factory v26.1.0",
   "description": "Version 26.1.0 of AI Factory is now available.",
@@ -8,7 +8,7 @@
     {
       "inline": false,
       "label": "AI Factory",
-      "permalink": "/blog/tags/aifactory",
+      "permalink": "/phofaux/blog/tags/aifactory",
       "description": "AI Factory tag description"
     }
   ],
@@ -20,7 +20,7 @@
       "title": "Midokura Team",
       "url": "https://midokura.com",
       "page": {
-        "permalink": "/blog/authors/midoteam"
+        "permalink": "/phofaux/blog/authors/midoteam"
       },
       "socials": {
         "github": "https://github.com/midokura"
@@ -43,10 +43,10 @@
   "unlisted": false,
   "prevItem": {
     "title": "AI Factory v25.1.2",
-    "permalink": "/blog/v25.1.2"
+    "permalink": "/phofaux/blog/v25.1.2"
   },
   "nextItem": {
     "title": "AI Factory v25.1.1",
-    "permalink": "/blog/v25.1.1"
+    "permalink": "/phofaux/blog/v25.1.1"
   }
 }

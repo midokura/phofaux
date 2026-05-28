@@ -24,10 +24,8 @@ export default {
   "title": "Midokura AI Factory",
   "tagline": "High-end GPU servers for HPC and AI workloads delivered to your doorstep",
   "favicon": "img/favicon.ico",
-  "url": "https://docs.midokura.com",
-  "baseUrl": "/",
-  "organizationName": "midokura",
-  "projectName": "phoenix-documentation",
+  "url": "https://midokura.github.io",
+  "baseUrl": "/phofaux/",
   "trailingSlash": false,
   "onBrokenLinks": "warn",
   "i18n": {

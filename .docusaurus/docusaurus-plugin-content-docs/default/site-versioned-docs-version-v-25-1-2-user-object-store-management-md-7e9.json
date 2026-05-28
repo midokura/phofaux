@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-v25.1.2/user/OBJECT_STORE_MANAGEMENT.md",
   "sourceDirName": "user",
   "slug": "/user/OBJECT_STORE_MANAGEMENT",
-  "permalink": "/docs/user/OBJECT_STORE_MANAGEMENT",
+  "permalink": "/phofaux/docs/user/OBJECT_STORE_MANAGEMENT",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Kubernetes Clusters",
-    "permalink": "/docs/user/KUBERNETES_CLUSTER_REFERENCE"
+    "permalink": "/phofaux/docs/user/KUBERNETES_CLUSTER_REFERENCE"
   },
   "next": {
     "title": "Observability for Users",
-    "permalink": "/docs/user/OBSERVABILITY"
+    "permalink": "/phofaux/docs/user/OBSERVABILITY"
   }
 }
