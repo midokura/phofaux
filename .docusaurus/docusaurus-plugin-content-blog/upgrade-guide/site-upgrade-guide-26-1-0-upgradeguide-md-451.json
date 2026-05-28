@@ -1,0 +1,52 @@
+{
+  "permalink": "/upgrade-guide/v26.1.0",
+  "source": "@site/upgrade-guide/26.1.0-upgradeguide.md",
+  "title": "Upgrade to AI Factory v26.1.0",
+  "description": "Operator reference",
+  "date": "2026-05-15T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "AI Factory",
+      "permalink": "/upgrade-guide/tags/aifactory",
+      "description": "AI Factory tag description"
+    }
+  ],
+  "readingTime": 0.15,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Midokura Team",
+      "title": "Midokura Team",
+      "url": "https://midokura.com",
+      "page": {
+        "permalink": "/upgrade-guide/authors/midoteam"
+      },
+      "socials": {
+        "github": "https://github.com/midokura"
+      },
+      "imageURL": "https://midokura.com/wp-content/uploads/2020/03/cropped-favicon-midokura-32x32.png",
+      "key": "midoteam"
+    }
+  ],
+  "frontMatter": {
+    "slug": "v26.1.0",
+    "title": "Upgrade to AI Factory v26.1.0",
+    "date": "2026-05-15T00:00:00.000Z",
+    "authors": [
+      "midoteam"
+    ],
+    "tags": [
+      "aifactory"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Upgrade to v25.1.2",
+    "permalink": "/upgrade-guide/v25.1.2"
+  },
+  "nextItem": {
+    "title": "Upgrade to v25.1.1",
+    "permalink": "/upgrade-guide/v25.1.1"
+  }
+}

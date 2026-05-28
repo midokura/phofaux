@@ -1,0 +1,1024 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "v25.1.2",
+          "label": "v25.1.2",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "user/ADDONS_USER_GUIDE",
+          "docs": [
+            {
+              "id": "license",
+              "path": "/docs/license",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/ADDONS_API_REFERENCE",
+              "path": "/docs/service-operator/ADDONS_API_REFERENCE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/ADDONS_OPERATOR_GUIDE",
+              "path": "/docs/service-operator/ADDONS_OPERATOR_GUIDE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/AZURE_SSO_SETUP",
+              "path": "/docs/service-operator/AZURE_SSO_SETUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/CAPI_MANAGEMENT_CLUSTER",
+              "path": "/docs/service-operator/CAPI_MANAGEMENT_CLUSTER",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/CEPH_SETUP",
+              "path": "/docs/service-operator/CEPH_SETUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/DEPLOYMENT",
+              "path": "/docs/service-operator/DEPLOYMENT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/GHCR_AUTHENTICATION",
+              "path": "/docs/service-operator/GHCR_AUTHENTICATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/GOOGLE_SSO_SETUP",
+              "path": "/docs/service-operator/GOOGLE_SSO_SETUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/IAAS_CONSOLE_CONFIGURATION",
+              "path": "/docs/service-operator/IAAS_CONSOLE_CONFIGURATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/INSTALL_BAREMETAL_NODE",
+              "path": "/docs/service-operator/INSTALL_BAREMETAL_NODE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/IPMI_SNMP_OBSERVABILITY_SETUP",
+              "path": "/docs/service-operator/IPMI_SNMP_OBSERVABILITY_SETUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/KEY_MANAGEMENT_POLICY",
+              "path": "/docs/service-operator/KEY_MANAGEMENT_POLICY",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/MANAGEMENT_TLS",
+              "path": "/docs/service-operator/MANAGEMENT_TLS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/NETWORK_CONTROL_NODE_SETUP",
+              "path": "/docs/service-operator/NETWORK_CONTROL_NODE_SETUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/observability/OBSERVABILITY_ALERTS",
+              "path": "/docs/service-operator/observability/OBSERVABILITY_ALERTS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/observability/OBSERVABILITY_DASHBOARDS",
+              "path": "/docs/service-operator/observability/OBSERVABILITY_DASHBOARDS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/observability/OBSERVABILITY_STORAGE",
+              "path": "/docs/service-operator/observability/OBSERVABILITY_STORAGE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/OPERATOR_API_GUIDE",
+              "path": "/docs/service-operator/OPERATOR_API_GUIDE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/OPERATOR_OVERVIEW",
+              "path": "/docs/service-operator/OPERATOR_OVERVIEW",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/OPERATOR_VPN_CONFIGURATION",
+              "path": "/docs/service-operator/OPERATOR_VPN_CONFIGURATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/OS_REQUIREMENTS",
+              "path": "/docs/service-operator/OS_REQUIREMENTS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/PUBLIC_IP_ACCESS",
+              "path": "/docs/service-operator/PUBLIC_IP_ACCESS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/ROUTER_BOX_CONFIGURATION",
+              "path": "/docs/service-operator/ROUTER_BOX_CONFIGURATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/ROUTER_BOX_SETUP",
+              "path": "/docs/service-operator/ROUTER_BOX_SETUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/CAPI_CLUSTER_HEALTH_ALERTS",
+              "path": "/docs/service-operator/runbooks/CAPI_CLUSTER_HEALTH_ALERTS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/CEPH_NODE_MAINTENANCE",
+              "path": "/docs/service-operator/runbooks/CEPH_NODE_MAINTENANCE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/DELETE_ORPHANED_CLUSTERS",
+              "path": "/docs/service-operator/runbooks/DELETE_ORPHANED_CLUSTERS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/GET_PROVISIONING_LOGS",
+              "path": "/docs/service-operator/runbooks/GET_PROVISIONING_LOGS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/HEDGEHOG_SWITCH_CREDENTIALS",
+              "path": "/docs/service-operator/runbooks/HEDGEHOG_SWITCH_CREDENTIALS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/HEDGEHOG_VM_CREDENTIALS",
+              "path": "/docs/service-operator/runbooks/HEDGEHOG_VM_CREDENTIALS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/KEY_ROTATION",
+              "path": "/docs/service-operator/runbooks/KEY_ROTATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/key-rotation/ANSIBLE_VAULT",
+              "path": "/docs/service-operator/runbooks/key-rotation/ANSIBLE_VAULT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/key-rotation/SSH_KEYS",
+              "path": "/docs/service-operator/runbooks/key-rotation/SSH_KEYS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/key-rotation/TLS_CERTIFICATES",
+              "path": "/docs/service-operator/runbooks/key-rotation/TLS_CERTIFICATES",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/key-rotation/VPN_WIREGUARD_KEYS",
+              "path": "/docs/service-operator/runbooks/key-rotation/VPN_WIREGUARD_KEYS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/MGMT_CLUSTER_SUBNET_MIGRATION",
+              "path": "/docs/service-operator/runbooks/MGMT_CLUSTER_SUBNET_MIGRATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/PERSONAL_DATA_DISPOSAL",
+              "path": "/docs/service-operator/runbooks/PERSONAL_DATA_DISPOSAL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/ROUTER_LOG_ACCESS",
+              "path": "/docs/service-operator/runbooks/ROUTER_LOG_ACCESS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/SOFTWARE_UPDATES",
+              "path": "/docs/service-operator/runbooks/SOFTWARE_UPDATES",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/SWITCH_HEARTBEAT_ALERT",
+              "path": "/docs/service-operator/runbooks/SWITCH_HEARTBEAT_ALERT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/TENANT_SERVICE_TERMINATION",
+              "path": "/docs/service-operator/runbooks/TENANT_SERVICE_TERMINATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/updates/CONFIGURATION",
+              "path": "/docs/service-operator/runbooks/updates/CONFIGURATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/updates/MANAGEMENT_CLUSTER",
+              "path": "/docs/service-operator/runbooks/updates/MANAGEMENT_CLUSTER",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/updates/NODES",
+              "path": "/docs/service-operator/runbooks/updates/NODES",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/updates/OPENSTACK",
+              "path": "/docs/service-operator/runbooks/updates/OPENSTACK",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/updates/PAAS",
+              "path": "/docs/service-operator/runbooks/updates/PAAS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/VPN_CONFIGURATION",
+              "path": "/docs/service-operator/VPN_CONFIGURATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/ADDONS_USER_GUIDE",
+              "path": "/docs/user/ADDONS_USER_GUIDE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/BAREMETAL_MANAGEMENT",
+              "path": "/docs/user/BAREMETAL_MANAGEMENT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/GPU_SERVER_VERIFICATION",
+              "path": "/docs/user/GPU_SERVER_VERIFICATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/KUBERNETES_CLUSTER_REFERENCE",
+              "path": "/docs/user/KUBERNETES_CLUSTER_REFERENCE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/OBJECT_STORE_MANAGEMENT",
+              "path": "/docs/user/OBJECT_STORE_MANAGEMENT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/OBSERVABILITY",
+              "path": "/docs/user/OBSERVABILITY",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/PUBLIC-IP-ACCESS",
+              "path": "/docs/user/PUBLIC-IP-ACCESS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/SSH_KEY_REGISTRATION",
+              "path": "/docs/user/SSH_KEY_REGISTRATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/VM_MANAGEMENT",
+              "path": "/docs/user/VM_MANAGEMENT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/VPN_CONFIGURATION",
+              "path": "/docs/user/VPN_CONFIGURATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/user",
+              "path": "/docs/category/user",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/service-operator",
+              "path": "/docs/category/service-operator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/runbooks",
+              "path": "/docs/category/runbooks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/software-update-runbooks",
+              "path": "/docs/category/software-update-runbooks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/key-rotation-runbooks",
+              "path": "/docs/category/key-rotation-runbooks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/observability",
+              "path": "/docs/category/observability",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/category/user",
+                "label": "User"
+              }
+            }
+          }
+        },
+        {
+          "name": "v25.1.1",
+          "label": "v25.1.1",
+          "isLast": false,
+          "path": "/docs/v25.1.1",
+          "mainDocId": "user/ADDONS_USER_GUIDE",
+          "docs": [
+            {
+              "id": "license",
+              "path": "/docs/v25.1.1/license",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/ADDONS_API_REFERENCE",
+              "path": "/docs/v25.1.1/service-operator/ADDONS_API_REFERENCE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/ADDONS_OPERATOR_GUIDE",
+              "path": "/docs/v25.1.1/service-operator/ADDONS_OPERATOR_GUIDE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/AZURE_SSO_SETUP",
+              "path": "/docs/v25.1.1/service-operator/AZURE_SSO_SETUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/CAPI_MANAGEMENT_CLUSTER",
+              "path": "/docs/v25.1.1/service-operator/CAPI_MANAGEMENT_CLUSTER",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/CEPH_SETUP",
+              "path": "/docs/v25.1.1/service-operator/CEPH_SETUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/DEPLOYMENT",
+              "path": "/docs/v25.1.1/service-operator/DEPLOYMENT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/GHCR_AUTHENTICATION",
+              "path": "/docs/v25.1.1/service-operator/GHCR_AUTHENTICATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/GOOGLE_SSO_SETUP",
+              "path": "/docs/v25.1.1/service-operator/GOOGLE_SSO_SETUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/IAAS_CONSOLE_CONFIGURATION",
+              "path": "/docs/v25.1.1/service-operator/IAAS_CONSOLE_CONFIGURATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/INSTALL_BAREMETAL_NODE",
+              "path": "/docs/v25.1.1/service-operator/INSTALL_BAREMETAL_NODE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/IPMI_SNMP_OBSERVABILITY_SETUP",
+              "path": "/docs/v25.1.1/service-operator/IPMI_SNMP_OBSERVABILITY_SETUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/KEY_MANAGEMENT_POLICY",
+              "path": "/docs/v25.1.1/service-operator/KEY_MANAGEMENT_POLICY",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/MANAGEMENT_TLS",
+              "path": "/docs/v25.1.1/service-operator/MANAGEMENT_TLS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/NETWORK_CONTROL_NODE_SETUP",
+              "path": "/docs/v25.1.1/service-operator/NETWORK_CONTROL_NODE_SETUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/observability/OBSERVABILITY_ALERTS",
+              "path": "/docs/v25.1.1/service-operator/observability/OBSERVABILITY_ALERTS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/observability/OBSERVABILITY_DASHBOARDS",
+              "path": "/docs/v25.1.1/service-operator/observability/OBSERVABILITY_DASHBOARDS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/observability/OBSERVABILITY_STORAGE",
+              "path": "/docs/v25.1.1/service-operator/observability/OBSERVABILITY_STORAGE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/OPERATOR_API_GUIDE",
+              "path": "/docs/v25.1.1/service-operator/OPERATOR_API_GUIDE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/OPERATOR_OVERVIEW",
+              "path": "/docs/v25.1.1/service-operator/OPERATOR_OVERVIEW",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/OPERATOR_VPN_CONFIGURATION",
+              "path": "/docs/v25.1.1/service-operator/OPERATOR_VPN_CONFIGURATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/OS_REQUIREMENTS",
+              "path": "/docs/v25.1.1/service-operator/OS_REQUIREMENTS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/PUBLIC_IP_ACCESS",
+              "path": "/docs/v25.1.1/service-operator/PUBLIC_IP_ACCESS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/ROUTER_BOX_CONFIGURATION",
+              "path": "/docs/v25.1.1/service-operator/ROUTER_BOX_CONFIGURATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/ROUTER_BOX_SETUP",
+              "path": "/docs/v25.1.1/service-operator/ROUTER_BOX_SETUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/CAPI_CLUSTER_HEALTH_ALERTS",
+              "path": "/docs/v25.1.1/service-operator/runbooks/CAPI_CLUSTER_HEALTH_ALERTS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/CEPH_NODE_MAINTENANCE",
+              "path": "/docs/v25.1.1/service-operator/runbooks/CEPH_NODE_MAINTENANCE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/DELETE_ORPHANED_CLUSTERS",
+              "path": "/docs/v25.1.1/service-operator/runbooks/DELETE_ORPHANED_CLUSTERS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/GET_PROVISIONING_LOGS",
+              "path": "/docs/v25.1.1/service-operator/runbooks/GET_PROVISIONING_LOGS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/HEDGEHOG_SWITCH_CREDENTIALS",
+              "path": "/docs/v25.1.1/service-operator/runbooks/HEDGEHOG_SWITCH_CREDENTIALS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/HEDGEHOG_VM_CREDENTIALS",
+              "path": "/docs/v25.1.1/service-operator/runbooks/HEDGEHOG_VM_CREDENTIALS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/KEY_ROTATION",
+              "path": "/docs/v25.1.1/service-operator/runbooks/KEY_ROTATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/key-rotation/ANSIBLE_VAULT",
+              "path": "/docs/v25.1.1/service-operator/runbooks/key-rotation/ANSIBLE_VAULT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/key-rotation/SSH_KEYS",
+              "path": "/docs/v25.1.1/service-operator/runbooks/key-rotation/SSH_KEYS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/key-rotation/TLS_CERTIFICATES",
+              "path": "/docs/v25.1.1/service-operator/runbooks/key-rotation/TLS_CERTIFICATES",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/key-rotation/VPN_WIREGUARD_KEYS",
+              "path": "/docs/v25.1.1/service-operator/runbooks/key-rotation/VPN_WIREGUARD_KEYS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/MGMT_CLUSTER_SUBNET_MIGRATION",
+              "path": "/docs/v25.1.1/service-operator/runbooks/MGMT_CLUSTER_SUBNET_MIGRATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/PERSONAL_DATA_DISPOSAL",
+              "path": "/docs/v25.1.1/service-operator/runbooks/PERSONAL_DATA_DISPOSAL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/ROUTER_LOG_ACCESS",
+              "path": "/docs/v25.1.1/service-operator/runbooks/ROUTER_LOG_ACCESS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/SOFTWARE_UPDATES",
+              "path": "/docs/v25.1.1/service-operator/runbooks/SOFTWARE_UPDATES",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/SWITCH_HEARTBEAT_ALERT",
+              "path": "/docs/v25.1.1/service-operator/runbooks/SWITCH_HEARTBEAT_ALERT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/TENANT_SERVICE_TERMINATION",
+              "path": "/docs/v25.1.1/service-operator/runbooks/TENANT_SERVICE_TERMINATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/updates/CONFIGURATION",
+              "path": "/docs/v25.1.1/service-operator/runbooks/updates/CONFIGURATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/updates/MANAGEMENT_CLUSTER",
+              "path": "/docs/v25.1.1/service-operator/runbooks/updates/MANAGEMENT_CLUSTER",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/updates/NODES",
+              "path": "/docs/v25.1.1/service-operator/runbooks/updates/NODES",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/updates/OPENSTACK",
+              "path": "/docs/v25.1.1/service-operator/runbooks/updates/OPENSTACK",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/updates/PAAS",
+              "path": "/docs/v25.1.1/service-operator/runbooks/updates/PAAS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/VPN_CONFIGURATION",
+              "path": "/docs/v25.1.1/service-operator/VPN_CONFIGURATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/ADDONS_USER_GUIDE",
+              "path": "/docs/v25.1.1/user/ADDONS_USER_GUIDE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/BAREMETAL_MANAGEMENT",
+              "path": "/docs/v25.1.1/user/BAREMETAL_MANAGEMENT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/GPU_SERVER_VERIFICATION",
+              "path": "/docs/v25.1.1/user/GPU_SERVER_VERIFICATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/KUBERNETES_CLUSTER_REFERENCE",
+              "path": "/docs/v25.1.1/user/KUBERNETES_CLUSTER_REFERENCE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/OBJECT_STORE_MANAGEMENT",
+              "path": "/docs/v25.1.1/user/OBJECT_STORE_MANAGEMENT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/OBSERVABILITY",
+              "path": "/docs/v25.1.1/user/OBSERVABILITY",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/PUBLIC-IP-ACCESS",
+              "path": "/docs/v25.1.1/user/PUBLIC-IP-ACCESS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/SSH_KEY_REGISTRATION",
+              "path": "/docs/v25.1.1/user/SSH_KEY_REGISTRATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/VM_MANAGEMENT",
+              "path": "/docs/v25.1.1/user/VM_MANAGEMENT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/VPN_CONFIGURATION",
+              "path": "/docs/v25.1.1/user/VPN_CONFIGURATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/user",
+              "path": "/docs/v25.1.1/category/user",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/service-operator",
+              "path": "/docs/v25.1.1/category/service-operator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/runbooks",
+              "path": "/docs/v25.1.1/category/runbooks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/software-update-runbooks",
+              "path": "/docs/v25.1.1/category/software-update-runbooks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/key-rotation-runbooks",
+              "path": "/docs/v25.1.1/category/key-rotation-runbooks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/observability",
+              "path": "/docs/v25.1.1/category/observability",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/v25.1.1/category/user",
+                "label": "User"
+              }
+            }
+          }
+        },
+        {
+          "name": "v25.1.0",
+          "label": "v25.1.0",
+          "isLast": false,
+          "path": "/docs/v25.1.0",
+          "mainDocId": "user/ADDONS_USER_GUIDE",
+          "docs": [
+            {
+              "id": "license",
+              "path": "/docs/v25.1.0/license",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/ADDONS_API_REFERENCE",
+              "path": "/docs/v25.1.0/service-operator/ADDONS_API_REFERENCE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/ADDONS_OPERATOR_GUIDE",
+              "path": "/docs/v25.1.0/service-operator/ADDONS_OPERATOR_GUIDE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/AZURE_SSO_SETUP",
+              "path": "/docs/v25.1.0/service-operator/AZURE_SSO_SETUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/CAPI_MANAGEMENT_CLUSTER",
+              "path": "/docs/v25.1.0/service-operator/CAPI_MANAGEMENT_CLUSTER",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/CEPH_SETUP",
+              "path": "/docs/v25.1.0/service-operator/CEPH_SETUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/DEPLOYMENT",
+              "path": "/docs/v25.1.0/service-operator/DEPLOYMENT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/GHCR_AUTHENTICATION",
+              "path": "/docs/v25.1.0/service-operator/GHCR_AUTHENTICATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/GOOGLE_SSO_SETUP",
+              "path": "/docs/v25.1.0/service-operator/GOOGLE_SSO_SETUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/IAAS_CONSOLE_CONFIGURATION",
+              "path": "/docs/v25.1.0/service-operator/IAAS_CONSOLE_CONFIGURATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/INSTALL_BAREMETAL_NODE",
+              "path": "/docs/v25.1.0/service-operator/INSTALL_BAREMETAL_NODE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/IPMI_SNMP_OBSERVABILITY_SETUP",
+              "path": "/docs/v25.1.0/service-operator/IPMI_SNMP_OBSERVABILITY_SETUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/KEY_MANAGEMENT_POLICY",
+              "path": "/docs/v25.1.0/service-operator/KEY_MANAGEMENT_POLICY",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/MANAGEMENT_TLS",
+              "path": "/docs/v25.1.0/service-operator/MANAGEMENT_TLS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/NETWORK_CONTROL_NODE_SETUP",
+              "path": "/docs/v25.1.0/service-operator/NETWORK_CONTROL_NODE_SETUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/observability/OBSERVABILITY_ALERTS",
+              "path": "/docs/v25.1.0/service-operator/observability/OBSERVABILITY_ALERTS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/observability/OBSERVABILITY_DASHBOARDS",
+              "path": "/docs/v25.1.0/service-operator/observability/OBSERVABILITY_DASHBOARDS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/observability/OBSERVABILITY_STORAGE",
+              "path": "/docs/v25.1.0/service-operator/observability/OBSERVABILITY_STORAGE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/OPERATOR_API_GUIDE",
+              "path": "/docs/v25.1.0/service-operator/OPERATOR_API_GUIDE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/OPERATOR_OVERVIEW",
+              "path": "/docs/v25.1.0/service-operator/OPERATOR_OVERVIEW",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/OPERATOR_VPN_CONFIGURATION",
+              "path": "/docs/v25.1.0/service-operator/OPERATOR_VPN_CONFIGURATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/OS_REQUIREMENTS",
+              "path": "/docs/v25.1.0/service-operator/OS_REQUIREMENTS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/PUBLIC_IP_ACCESS",
+              "path": "/docs/v25.1.0/service-operator/PUBLIC_IP_ACCESS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/ROUTER_BOX_CONFIGURATION",
+              "path": "/docs/v25.1.0/service-operator/ROUTER_BOX_CONFIGURATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/ROUTER_BOX_SETUP",
+              "path": "/docs/v25.1.0/service-operator/ROUTER_BOX_SETUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/CAPI_CLUSTER_HEALTH_ALERTS",
+              "path": "/docs/v25.1.0/service-operator/runbooks/CAPI_CLUSTER_HEALTH_ALERTS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/CEPH_NODE_MAINTENANCE",
+              "path": "/docs/v25.1.0/service-operator/runbooks/CEPH_NODE_MAINTENANCE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/DELETE_ORPHANED_CLUSTERS",
+              "path": "/docs/v25.1.0/service-operator/runbooks/DELETE_ORPHANED_CLUSTERS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/GET_PROVISIONING_LOGS",
+              "path": "/docs/v25.1.0/service-operator/runbooks/GET_PROVISIONING_LOGS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/HEDGEHOG_SWITCH_CREDENTIALS",
+              "path": "/docs/v25.1.0/service-operator/runbooks/HEDGEHOG_SWITCH_CREDENTIALS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/HEDGEHOG_VM_CREDENTIALS",
+              "path": "/docs/v25.1.0/service-operator/runbooks/HEDGEHOG_VM_CREDENTIALS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/KEY_ROTATION",
+              "path": "/docs/v25.1.0/service-operator/runbooks/KEY_ROTATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/key-rotation/ANSIBLE_VAULT",
+              "path": "/docs/v25.1.0/service-operator/runbooks/key-rotation/ANSIBLE_VAULT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/key-rotation/SSH_KEYS",
+              "path": "/docs/v25.1.0/service-operator/runbooks/key-rotation/SSH_KEYS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/key-rotation/TLS_CERTIFICATES",
+              "path": "/docs/v25.1.0/service-operator/runbooks/key-rotation/TLS_CERTIFICATES",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/key-rotation/VPN_WIREGUARD_KEYS",
+              "path": "/docs/v25.1.0/service-operator/runbooks/key-rotation/VPN_WIREGUARD_KEYS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/MGMT_CLUSTER_SUBNET_MIGRATION",
+              "path": "/docs/v25.1.0/service-operator/runbooks/MGMT_CLUSTER_SUBNET_MIGRATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/PERSONAL_DATA_DISPOSAL",
+              "path": "/docs/v25.1.0/service-operator/runbooks/PERSONAL_DATA_DISPOSAL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/ROUTER_LOG_ACCESS",
+              "path": "/docs/v25.1.0/service-operator/runbooks/ROUTER_LOG_ACCESS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/SOFTWARE_UPDATES",
+              "path": "/docs/v25.1.0/service-operator/runbooks/SOFTWARE_UPDATES",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/SWITCH_HEARTBEAT_ALERT",
+              "path": "/docs/v25.1.0/service-operator/runbooks/SWITCH_HEARTBEAT_ALERT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/TENANT_SERVICE_TERMINATION",
+              "path": "/docs/v25.1.0/service-operator/runbooks/TENANT_SERVICE_TERMINATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/updates/CONFIGURATION",
+              "path": "/docs/v25.1.0/service-operator/runbooks/updates/CONFIGURATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/updates/MANAGEMENT_CLUSTER",
+              "path": "/docs/v25.1.0/service-operator/runbooks/updates/MANAGEMENT_CLUSTER",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/updates/NODES",
+              "path": "/docs/v25.1.0/service-operator/runbooks/updates/NODES",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/updates/OPENSTACK",
+              "path": "/docs/v25.1.0/service-operator/runbooks/updates/OPENSTACK",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/runbooks/updates/PAAS",
+              "path": "/docs/v25.1.0/service-operator/runbooks/updates/PAAS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "service-operator/VPN_CONFIGURATION",
+              "path": "/docs/v25.1.0/service-operator/VPN_CONFIGURATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/ADDONS_USER_GUIDE",
+              "path": "/docs/v25.1.0/user/ADDONS_USER_GUIDE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/BAREMETAL_MANAGEMENT",
+              "path": "/docs/v25.1.0/user/BAREMETAL_MANAGEMENT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/GPU_SERVER_VERIFICATION",
+              "path": "/docs/v25.1.0/user/GPU_SERVER_VERIFICATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/KUBERNETES_CLUSTER_REFERENCE",
+              "path": "/docs/v25.1.0/user/KUBERNETES_CLUSTER_REFERENCE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/OBJECT_STORE_MANAGEMENT",
+              "path": "/docs/v25.1.0/user/OBJECT_STORE_MANAGEMENT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/OBSERVABILITY",
+              "path": "/docs/v25.1.0/user/OBSERVABILITY",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/PUBLIC-IP-ACCESS",
+              "path": "/docs/v25.1.0/user/PUBLIC-IP-ACCESS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/SSH_KEY_REGISTRATION",
+              "path": "/docs/v25.1.0/user/SSH_KEY_REGISTRATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/VM_MANAGEMENT",
+              "path": "/docs/v25.1.0/user/VM_MANAGEMENT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/VPN_CONFIGURATION",
+              "path": "/docs/v25.1.0/user/VPN_CONFIGURATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/user",
+              "path": "/docs/v25.1.0/category/user",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/service-operator",
+              "path": "/docs/v25.1.0/category/service-operator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/runbooks",
+              "path": "/docs/v25.1.0/category/runbooks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/software-update-runbooks",
+              "path": "/docs/v25.1.0/category/software-update-runbooks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/key-rotation-runbooks",
+              "path": "/docs/v25.1.0/category/key-rotation-runbooks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/observability",
+              "path": "/docs/v25.1.0/category/observability",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/v25.1.0/category/user",
+                "label": "User"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
